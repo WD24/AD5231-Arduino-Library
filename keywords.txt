@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For Ad5231 Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AD5231	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+IncreaseWiper KEYWORD2
+ShiftUp() KEYWORD2
+DecreaseWiper() KEYWORD2
+ShiftDown() KEYWORD2
+ReadMemory KEYWORD2
+ReadWiper KEYWORD2
+WriteWiper KEYWORD2
+SetLogicOutput KEYWORD2
+ResetDigiPot KEYWORD2
+SaveWiperValue KEYWORD2
+SaveData KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+slaveSelect LITERAL1
+SPISettings AD5231Settings LITERAL1
